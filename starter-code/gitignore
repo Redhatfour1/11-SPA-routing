@@ -1,0 +1,4 @@
+**/*githubToken.js >> gitignore
+echo **/*githubToken.js >> gitignore
+echo **/*githubToken.js
+**/githubToken.js
